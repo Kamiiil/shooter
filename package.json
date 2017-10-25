@@ -1,0 +1,23 @@
+{
+  "name": "shooter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamiiil/shooter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamiiil/shooter/issues"
+  },
+  "homepage": "https://github.com/Kamiiil/shooter#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
